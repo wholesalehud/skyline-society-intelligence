@@ -310,6 +310,14 @@ Identify what NO ONE else is offering:
 
 ## Output Format
 
+**Save research to**: `_outputs/micro_venue/comprehensive_research_{YYYYMMDD}.md`
+
+**Also create JSON data file**: `_outputs/micro_venue/opportunities_{YYYYMMDD}.json` with structured data for:
+- Competitive landscape (pricing, features, gaps)
+- Alternative event types (demand scores, pricing ranges)
+- White space opportunities (ranked by revenue potential)
+- Action items (prioritized by impact/effort)
+
 Provide findings in this comprehensive structure:
 
 ### Executive Summary
