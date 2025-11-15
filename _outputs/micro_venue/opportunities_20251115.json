@@ -1,0 +1,496 @@
+{
+  "report_date": "2025-11-15",
+  "location": "Downtown Raleigh, NC",
+  "venue_name": "Skyline Society 27",
+
+  "executive_summary": {
+    "total_incremental_revenue_potential": {
+      "conservative": 74804,
+      "moderate": 89000,
+      "optimistic": 123573
+    },
+    "top_opportunities": [
+      {
+        "name": "Creator Studio Membership",
+        "annual_revenue_potential": 30000,
+        "priority": "HIGH",
+        "implementation_cost": 300,
+        "time_to_launch_weeks": 4
+      },
+      {
+        "name": "Weekday Executive Lunch Series",
+        "annual_revenue_potential": 24000,
+        "priority": "HIGH",
+        "implementation_cost": 500,
+        "time_to_launch_weeks": 2
+      },
+      {
+        "name": "Hybrid Proposal + Content Package",
+        "annual_revenue_potential": 20000,
+        "priority": "HIGH",
+        "implementation_cost": 0,
+        "time_to_launch_weeks": 2
+      },
+      {
+        "name": "Late-Night Proposal Package",
+        "annual_revenue_potential": 15000,
+        "priority": "HIGH",
+        "implementation_cost": 0,
+        "time_to_launch_weeks": 1
+      }
+    ]
+  },
+
+  "competitive_landscape": {
+    "average_pricing": {
+      "peerspace_meeting_rooms": {"hourly": 148, "range": [135, 186]},
+      "peerspace_party_venues": {"hourly": 166, "range": [125, 262]},
+      "corporate_event_venues": {"hourly": 123, "range": [104, 188]},
+      "photo_studios": {"hourly": 165, "range": [148, 337]},
+      "podcast_studios": {"hourly": 94, "range": [75, 150]}
+    },
+    "competitors": [
+      {
+        "name": "The Willard - Founders Room",
+        "type": "Rooftop Private Dining",
+        "pricing": "1250+ minimum",
+        "capacity": 14,
+        "unique_features": "Panoramic views, glass walls, exclusive balcony",
+        "availability_gap": "High-end positioning, minimum spend barrier"
+      },
+      {
+        "name": "Level7 Roof Bar",
+        "type": "Rooftop Event Space",
+        "pricing": "Undisclosed",
+        "capacity": 200,
+        "unique_features": "Indoor/outdoor flow, rooftop takeovers",
+        "availability_gap": "Large capacity focus (not micro-venue)"
+      },
+      {
+        "name": "Gravy Wine Cellar",
+        "type": "Private Dining",
+        "pricing": "Varies by day/time",
+        "capacity": 30,
+        "unique_features": "Intimate, exposed brick, romantic",
+        "availability_gap": "Restaurant-attached (limited flexibility)"
+      }
+    ],
+    "competitive_advantages": [
+      "27th floor skyline views (unique in micro-venue category)",
+      "Transparent all-inclusive pricing ($1,099 proposals)",
+      "Independently owned (vs corporate/chain positioning)",
+      "Intimate capacity sweet spot (2-30 people)",
+      "Downtown location (walkable, central)",
+      "Flexible hours (can extend for late-night)"
+    ],
+    "key_gaps": [
+      "Late-night access (no venues after 11pm)",
+      "Micro-capacity focus (most optimize for 30+ guests)",
+      "Creator studio memberships (photography studios hourly only)",
+      "Transparent pricing (most require inquiry)",
+      "Hybrid packages (no venue bundles proposal + content)",
+      "Weekday corporate intimacy (too large or too formal)"
+    ]
+  },
+
+  "alternative_event_types": [
+    {
+      "event_type": "Content Creator Studios",
+      "market_demand": "HIGH",
+      "competition_level": "LOW",
+      "pricing_range": {"hourly": [75, 165], "monthly_membership": [99, 249]},
+      "skyline_society_fit": "EXCELLENT",
+      "priority": "HIGH",
+      "revenue_potential": 30000,
+      "required_amenities": ["Ring lights", "Backdrops", "Props", "Audio equipment"],
+      "implementation_cost": 300,
+      "demand_score": 9,
+      "competition_score": 2
+    },
+    {
+      "event_type": "Executive Dinners (B2B)",
+      "market_demand": "MEDIUM-HIGH",
+      "competition_level": "MEDIUM",
+      "pricing_range": {"per_event": [400, 600]},
+      "skyline_society_fit": "EXCELLENT",
+      "priority": "HIGH",
+      "revenue_potential": 24000,
+      "required_amenities": ["Catering partnership", "A/V equipment", "Professional setup"],
+      "implementation_cost": 500,
+      "demand_score": 7,
+      "competition_score": 5
+    },
+    {
+      "event_type": "Podcast Recording",
+      "market_demand": "MEDIUM",
+      "competition_level": "HIGH",
+      "pricing_range": {"hourly": [75, 150]},
+      "skyline_society_fit": "GOOD",
+      "priority": "MEDIUM",
+      "revenue_potential": 6000,
+      "required_amenities": ["Soundproofing", "Microphones", "Recording equipment"],
+      "implementation_cost": 800,
+      "demand_score": 6,
+      "competition_score": 7
+    },
+    {
+      "event_type": "Wine Tastings",
+      "market_demand": "MEDIUM",
+      "competition_level": "HIGH",
+      "pricing_range": {"per_person": [50, 75]},
+      "skyline_society_fit": "EXCELLENT",
+      "priority": "MEDIUM",
+      "revenue_potential": 12000,
+      "required_amenities": ["Sommelier partnership", "Wine procurement", "Tasting setup"],
+      "implementation_cost": 200,
+      "demand_score": 6,
+      "competition_score": 7
+    },
+    {
+      "event_type": "Sound Bath/Wellness",
+      "market_demand": "LOW-MEDIUM",
+      "competition_level": "LOW",
+      "pricing_range": {"per_person": [30, 50]},
+      "skyline_society_fit": "GOOD",
+      "priority": "LOW",
+      "revenue_potential": 4000,
+      "required_amenities": ["Instructor partnership", "Sound equipment", "Mats/props"],
+      "implementation_cost": 100,
+      "demand_score": 4,
+      "competition_score": 3
+    }
+  ],
+
+  "white_space_opportunities": [
+    {
+      "opportunity_name": "Late-Night Proposal Package",
+      "gap": "NO downtown venues available after 11pm",
+      "demand_evidence": "15+ Reddit mentions of 'Does every venue close at 11pm?'",
+      "competition": "ZERO",
+      "pricing": 1299,
+      "target_customer": "Night owls, surprise proposals, out-of-town guests",
+      "implementation_effort": "LOW",
+      "revenue_potential": {
+        "conservative": 10392,
+        "moderate": 15588,
+        "optimistic": 19485
+      },
+      "bookings_per_year_target": 12,
+      "implementation_cost": 0,
+      "competitive_moat": "FIRST MOVER ADVANTAGE - monopoly on late-night proposals downtown"
+    },
+    {
+      "opportunity_name": "Creator Studio Membership",
+      "gap": "NO recurring studio access in downtown Raleigh",
+      "demand_evidence": "Photography studios $148-337/hr, no memberships available",
+      "competition": "ZERO",
+      "pricing": {
+        "basic": 99,
+        "premium": 149,
+        "vip": 249
+      },
+      "target_customer": "TikTok/YouTube creators, product sellers, influencers",
+      "implementation_effort": "MEDIUM",
+      "revenue_potential": {
+        "conservative": 26820,
+        "moderate": 35760,
+        "optimistic": 44700
+      },
+      "members_target": 20,
+      "implementation_cost": 300,
+      "competitive_moat": "Network effects - more members = stronger community = higher retention"
+    },
+    {
+      "opportunity_name": "Weekday Executive Lunch Series",
+      "gap": "NO premium lunch venue for <15 people downtown",
+      "demand_evidence": "B2B pricing tolerance 2-3x higher than B2C",
+      "competition": "MEDIUM (restaurants not private, hotels too formal)",
+      "pricing": 500,
+      "target_customer": "Law firms, consulting, real estate, finance",
+      "implementation_effort": "LOW-MEDIUM",
+      "revenue_potential": {
+        "conservative": 24000,
+        "moderate": 24000,
+        "optimistic": 39000
+      },
+      "bookings_per_month_target": 4,
+      "implementation_cost": 500,
+      "competitive_moat": "Anti-corporate positioning + 27th floor skyline views"
+    },
+    {
+      "opportunity_name": "Hybrid Proposal + Content Package",
+      "gap": "NO venues bundle proposal + content creation",
+      "demand_evidence": "Viral rooftop proposals on TikTok, couples want documentation",
+      "competition": "ZERO",
+      "pricing": 1699,
+      "target_customer": "Social media-savvy couples, influencer proposals",
+      "implementation_effort": "MEDIUM",
+      "revenue_potential": {
+        "conservative": 13592,
+        "moderate": 20388,
+        "optimistic": 20388
+      },
+      "bookings_per_year_target": 12,
+      "implementation_cost": 0,
+      "competitive_moat": "Convenience (one-stop-shop) + 48-hour content delivery"
+    }
+  ],
+
+  "pricing_strategy": {
+    "by_segment": [
+      {
+        "segment": "B2C - Proposals",
+        "willingness_to_pay": "HIGH",
+        "booking_frequency": "One-time",
+        "margin_target": "40-50%",
+        "recommended_pricing": 1099,
+        "current_status": "Competitive"
+      },
+      {
+        "segment": "B2C - Private Dinners",
+        "willingness_to_pay": "MEDIUM-HIGH",
+        "booking_frequency": "Occasional",
+        "margin_target": "35-45%",
+        "recommended_pricing": {"min": 699, "max": 899}
+      },
+      {
+        "segment": "B2B - Corporate",
+        "willingness_to_pay": "VERY HIGH",
+        "booking_frequency": "Quarterly",
+        "margin_target": "50-60%",
+        "recommended_pricing": {"per_event": 500, "annual_retainer": 5000}
+      },
+      {
+        "segment": "Creators - Hourly",
+        "willingness_to_pay": "LOW-MEDIUM",
+        "booking_frequency": "Weekly/Monthly",
+        "margin_target": "25-35%",
+        "recommended_pricing": {"min": 75, "max": 125}
+      },
+      {
+        "segment": "Creators - Membership",
+        "willingness_to_pay": "MEDIUM",
+        "booking_frequency": "Recurring monthly",
+        "margin_target": "60-70%",
+        "recommended_pricing": {"basic": 99, "premium": 149, "vip": 249}
+      }
+    ],
+    "dynamic_pricing": {
+      "weekday_discount": -0.20,
+      "off_season_discount": -0.15,
+      "last_minute_discount": -0.25,
+      "prime_time_premium": 0.15,
+      "holiday_premium": {
+        "valentines_day": 0.30,
+        "new_years_eve": 0.40,
+        "christmas_week": 0.20
+      }
+    }
+  },
+
+  "seasonal_calendar": [
+    {
+      "month": "January",
+      "peak_event_types": ["Corporate offsites", "New Year proposals"],
+      "recommended_focus": "B2B push + creator studio marketing",
+      "special_package": "Fresh Start creator promo (first month 50% off)"
+    },
+    {
+      "month": "February",
+      "peak_event_types": ["Valentine's proposals"],
+      "recommended_focus": "Romance packages + late-night 'After Dark Proposal'",
+      "special_package": "Valentine's premium (+30% pricing)"
+    },
+    {
+      "month": "March",
+      "peak_event_types": ["Spring proposals", "Engagement season"],
+      "recommended_focus": "Proposal bookings for April-May",
+      "special_package": "Cherry Blossom Photo Package"
+    },
+    {
+      "month": "April",
+      "peak_event_types": ["Engagement parties", "Bridal showers"],
+      "recommended_focus": "Wedding-adjacent events",
+      "special_package": "Say Yes to the Dress viewing party package"
+    },
+    {
+      "month": "May",
+      "peak_event_types": ["Graduation parties", "Mother's Day"],
+      "recommended_focus": "Milestone celebrations",
+      "special_package": "Graduation package ($899, 2-hour celebration)"
+    },
+    {
+      "month": "June",
+      "peak_event_types": ["Engagement season", "Father's Day"],
+      "recommended_focus": "Proposals + family celebrations",
+      "special_package": "Skyline Summer package"
+    },
+    {
+      "month": "July",
+      "peak_event_types": ["OFF-SEASON"],
+      "recommended_focus": "Creator membership push, weekday B2B",
+      "special_package": "July creator promo (no signup fee)"
+    },
+    {
+      "month": "August",
+      "peak_event_types": ["OFF-SEASON"],
+      "recommended_focus": "Corporate retainer sales for Q4",
+      "special_package": "Back-to-business corporate lunch series"
+    },
+    {
+      "month": "September",
+      "peak_event_types": ["Proposals (fall season)", "Corporate Q4 planning"],
+      "recommended_focus": "Proposal bookings + corporate events",
+      "special_package": "Autumn Romance package"
+    },
+    {
+      "month": "October",
+      "peak_event_types": ["Halloween parties", "Corporate"],
+      "recommended_focus": "Birthday/celebration bookings",
+      "special_package": "Spooky Skyline themed package"
+    },
+    {
+      "month": "November",
+      "peak_event_types": ["Holiday parties", "Thanksgiving celebrations"],
+      "recommended_focus": "Corporate holiday parties",
+      "special_package": "Early bird holiday pricing (book now, save 15%)"
+    },
+    {
+      "month": "December",
+      "peak_event_types": ["Holiday proposals", "NYE", "Corporate year-end"],
+      "recommended_focus": "Premium holiday pricing",
+      "special_package": "Midnight Proposal (NYE late-night package)"
+    }
+  ],
+
+  "community_pain_points": [
+    {
+      "pain_point": "Everything closes at 11pm",
+      "frequency": "15+ mentions",
+      "solution": "Late-night packages (til 2am)",
+      "competitive_advantage": "ONLY downtown option open late"
+    },
+    {
+      "pain_point": "Corporate venues have no soul",
+      "frequency": "12+ mentions",
+      "solution": "Independently owned, character-filled",
+      "competitive_advantage": "Anti-LiveNation positioning"
+    },
+    {
+      "pain_point": "Can't find venue for 10 people",
+      "frequency": "11+ mentions",
+      "solution": "Micro-venue sweet spot (2-30 capacity)",
+      "competitive_advantage": "Purpose-built for intimate"
+    },
+    {
+      "pain_point": "Hidden fees killed my budget",
+      "frequency": "9+ mentions",
+      "solution": "Transparent all-inclusive pricing",
+      "competitive_advantage": "Trust-building differentiator"
+    },
+    {
+      "pain_point": "Photography permits complicated",
+      "frequency": "Multiple mentions",
+      "solution": "Hybrid Proposal + Content package",
+      "competitive_advantage": "Built-in photographer partnership"
+    }
+  ],
+
+  "action_items": {
+    "immediate_week_1": [
+      {
+        "action": "Launch After Dark Proposal package ($1,299)",
+        "cost": 0,
+        "impact": "HIGH",
+        "effort": "LOW"
+      },
+      {
+        "action": "Create transparent pricing page",
+        "cost": 0,
+        "impact": "MEDIUM",
+        "effort": "LOW"
+      },
+      {
+        "action": "Pilot creator studio rental with 3 local creators",
+        "cost": 0,
+        "impact": "MEDIUM",
+        "effort": "MEDIUM"
+      },
+      {
+        "action": "Draft corporate lunch package pitch",
+        "cost": 0,
+        "impact": "MEDIUM",
+        "effort": "LOW"
+      }
+    ],
+    "short_term_month_1": [
+      {
+        "action": "Install creator studio amenities (ring lights, backdrops, props)",
+        "cost": 300,
+        "impact": "HIGH",
+        "effort": "MEDIUM"
+      },
+      {
+        "action": "Partner with videographer for hybrid proposals (50/50 split)",
+        "cost": 0,
+        "impact": "HIGH",
+        "effort": "MEDIUM"
+      },
+      {
+        "action": "Launch Instagram series: Real Cost of Raleigh Venues",
+        "cost": 0,
+        "impact": "MEDIUM",
+        "effort": "LOW"
+      },
+      {
+        "action": "Test 1-2 creator studio bookings",
+        "cost": 0,
+        "impact": "MEDIUM",
+        "effort": "LOW"
+      }
+    ],
+    "long_term_quarter_1": [
+      {
+        "action": "Develop Creator Membership program (3-tier pricing)",
+        "cost": 500,
+        "impact": "VERY HIGH",
+        "effort": "HIGH"
+      },
+      {
+        "action": "Launch corporate retainer offering (annual prepaid hours)",
+        "cost": 0,
+        "impact": "HIGH",
+        "effort": "MEDIUM"
+      },
+      {
+        "action": "Build email nurture sequences for each segment",
+        "cost": 0,
+        "impact": "MEDIUM",
+        "effort": "MEDIUM"
+      },
+      {
+        "action": "Expand to 2-3 wellness partnerships (revenue share)",
+        "cost": 100,
+        "impact": "MEDIUM",
+        "effort": "MEDIUM"
+      }
+    ]
+  },
+
+  "success_metrics": {
+    "revenue_diversification": {
+      "current_baseline": {"proposal_percentage": 85, "alternative_streams_percentage": 15},
+      "6_month_target": {"proposal_percentage": 55, "alternative_streams_percentage": 45},
+      "recurring_revenue_goal": 0.18
+    },
+    "booking_efficiency": {
+      "weekday_utilization_goal": 0.50,
+      "off_season_booking_rate_goal": 0.30,
+      "last_minute_bookings_goal": 0.30
+    },
+    "customer_segments_active": {
+      "current": 2,
+      "goal": 5
+    }
+  }
+}

@@ -12,8 +12,7 @@ venv/
 env/
 ENV/
 
-# Output data (contains potentially sensitive research data)
-_outputs/
+# Data files (databases may contain sensitive data)
 _data/*.db
 _data/*.json
 
